@@ -1,0 +1,6 @@
+client\PlayerClient.class
+server\UpdateServlet.class
+server\GameBoard.class
+server\GameServlet.class
+server\Player.class
+server\PlayerServlet.class
